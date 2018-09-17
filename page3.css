@@ -1,5 +1,7 @@
 h1 {
   margin-left: 37.5%;
+  margin-top: 2%;
+    
 }
 h2 {
   margin-top: 5%;
@@ -10,7 +12,7 @@ h3 {
   margin-left: 12%;
 }
 title {
-  margin-left: 45%;
+  margin-left: 44%;
 }
 p {
   font-size: 150%;
@@ -24,7 +26,9 @@ form {
   margin-left: 18%;
 }
 #title1 {
-  font-size: 280%;
+  font-size: 320%;
+  font-weight: 600;
+  font-family: Times New Roman;
 }
 #hitch {
   margin-left: 65%;
@@ -34,4 +38,7 @@ form {
 #contact {
   margin-top: 7%;
 }
-
+#pagination{
+	margin-left: 42.5%;
+	margin-top: 8%;
+}
