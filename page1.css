@@ -1,0 +1,52 @@
+.container{
+	margin: 10%;
+}
+
+title {
+  margin-left: 44%;
+}
+
+#navbar {
+  opacity: 0.97
+}
+
+#title1 {
+  font-size: 320%;
+  font-weight: 600;
+  font-family: Times New Roman;
+}
+
+
+
+.btn{
+	margin-left: 25%;
+	margin-top: 5%;
+}
+
+.ml-3{
+	width: 200px;
+	height: 150px;
+	border-radius: 50%;
+	border: solid white;
+	border-width: 1px;
+}
+
+.mr-3{
+	width: 200px;
+	height: 150px;
+	border-radius: 50%;
+	border: solid white;
+	border-width: 1px;
+}
+
+.body{
+	background-image: url(http://maximumwallhd.com/wp-content/uploads/2015/08/fonds-ecran-alfred-hitchcock-17.jpg);
+	background-size: cover;
+	color: #ECEFF1;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+#pagination{
+margin-left: 42.5%;
+margin-top: 8%;
+}
