@@ -1,0 +1,19 @@
+title {
+  margin-left: 44%;
+}
+#title1 {
+  font-size: 320%;
+  font-weight: 600;
+  font-family: Times New Roman;
+}
+#pagination{
+	margin-left: 40%;
+	margin-right: 50%;
+	margin-top: 8%;
+}
+#contact{
+	margin-top: 10%;
+	margin-left: 20%;
+	font-weight: 60%;
+	margin-right: 20%;
+}

@@ -1,0 +1,35 @@
+#Fame {
+
+	margin-top: 5%;
+}
+
+
+h3 {
+
+	padding-top: 5%;
+}
+title {
+  margin-left: 44%;
+}
+table {
+ border-width:1px; 
+ border-style:solid; 
+ border-color:grey;
+ width:30%;
+ }
+tr, th, td { 
+ border-width:1px;
+ border-style:solid; 
+ border-color:grey;
+ width:30%;
+ }
+#pagination{
+	margin-left: 40%;
+	margin-right: 50%;
+	margin-top: 8%;
+}
+#title1 {
+  font-size: 320%;
+  font-weight: 600;
+  font-family: Times New Roman;
+}

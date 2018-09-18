@@ -1,0 +1,45 @@
+h1 {
+  margin-left: 37.5%;
+  margin-top: 2%;
+    
+}
+h2 {
+  margin-top: 5%;
+  margin-left: 20%;
+  font-size: 300%;
+}
+h3 {
+  margin-left: 12%;
+}
+title {
+  margin-left: 44%;
+}
+p {
+  font-size: 150%;
+  margin-top: 3%;
+  margin-left: 20%;
+}
+form {
+  margin-left: 36.5%;
+}
+#send {
+  margin-left: 18%;
+}
+#title1 {
+  font-size: 320%;
+  font-weight: 600;
+  font-family: Times New Roman;
+}
+#hitch {
+  margin-left: 65%;
+  margin-top: -15%;
+  width: 23%;
+}
+#contact {
+  margin-top: 7%;
+}
+#pagination{
+  margin-left: 40%;
+  margin-right: 50%;
+  margin-top: 8%;
+}
