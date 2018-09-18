@@ -27,6 +27,11 @@ tr, th, td {
  border-color:grey;
  width:30%;
  }
+
+ #navbar {
+  opacity: 0.97
+}
+
 #pagination{
 	margin-left: 40%;
 	margin-right: 50%;
