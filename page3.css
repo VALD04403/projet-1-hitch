@@ -3,19 +3,22 @@ h1 {
   margin-top: 2%;
     
 }
+
 h2 {
   margin-top: 5%;
   margin-left: 20%;
   font-size: 300%;
 }
+
 h3 {
   margin-left: 12%;
 }
+
 h4{
-  margin-right: 10%;
-  margin-top: 10%;
-  font-size: 200%;
-  text-align: right;
+  margin-left: 20%;
+  margin-top: 8%;
+  font-size: 280%;
+ 
 
 }
 title {
@@ -30,30 +33,29 @@ p {
 form {
   margin-left: 36.5%;
 }
+
 #send {
   margin-left: 18%;
 }
+
 #title1 {
   font-size: 320%;
   font-weight: 600;
   font-family: Times New Roman;
 }
+
 #hitch {
   margin-left: 65%;
   margin-top: -15%;
   width: 23%;
 }
+
 #contact {
   margin-top: 7%;
 }
+
 #pagination{
   margin-left: 40%;
   margin-right: 50%;
   margin-top: 8%;
-}
-#Awards {
-  font-size: 130%;
-  margin-right: 5%;
-  margin-top: 5%;
-  text-align: right;
 }
