@@ -2,11 +2,15 @@
 
 	margin-top: 5%;
 }
-
-
+h2 {
+   margin-left: 15%;
+   padding-top: 5%;
+}
+table{
+  margin-top: 10%;
+}
 h3 {
-
-	padding-top: 5%;
+  padding-top: 5%;
 }
 title {
   margin-left: 44%;
