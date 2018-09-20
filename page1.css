@@ -21,7 +21,9 @@ title {
           box-sizing: border-box;
 }
 
-
+#navbar{
+  opacity: 0.97;
+}
 
 body {
 
