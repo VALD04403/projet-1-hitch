@@ -1,4 +1,26 @@
-#Fame {
+.navbar1 {
+	opacity: 0.97;
+	height: 100px;
+	-webkit-transition-property: height;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: linear;
+    transition-property: height;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+
+.navbar2 {
+	opacity: 0.97;
+	height: 0px;
+	-webkit-transition-property: height;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: linear;
+    transition-property: height;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+
+    
+}#Fame {
 
 	margin-top: 5%;
 }

@@ -210,14 +210,17 @@ $(document).ready(function() {
 <a id="back2Top" title="Back to top" href="#">&#10148;</a>
 
 <script>
-$(document).scroll(function(event) {
-	if (event.originalEvent.pageY > 5) {
-		$("#navbar").addClass("d-none")
-	}			 
-	else { 
-		$("#navbar").removeClass("d-none") 
-	}
-});
+	$(document).scroll(function(event) {
+
+	if ($(document).scrollTop() < 5) {
+			  $("#navbar").addClass("navbar1")
+	  $("#navbar").removeClass("navbar2")
+		  }
+		  else { 
+			  $("#navbar").addClass("navbar2") 
+	  $("#navbar").removeClass("navbar1")
+		  }
+	  });
 </script>
 
 </body>

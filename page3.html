@@ -87,13 +87,16 @@
   
     <script>
       $(document).scroll(function(event) {
-        if (event.originalEvent.pageY > 5) {
-          $("#navbar").addClass("d-none")
-        }			 
+  
+        if ($(document).scrollTop() < 5) {
+          $("#navbar").addClass("navbar1")
+          $("#navbar").removeClass("navbar2")
+        }
         else { 
-          $("#navbar").removeClass("d-none") 
+          $("#navbar").addClass("navbar2") 
+          $("#navbar").removeClass("navbar1")
         }
       });
-      </script>
+    </script>
   </body>
   </html>
