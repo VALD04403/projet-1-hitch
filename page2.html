@@ -299,16 +299,20 @@
 	<script>
 
   	$(document).scroll(function(event) {
-
-      if ($(document).scrollTop() < 5) {
-				$("#navbar").addClass("navbar1")
-        $("#navbar").removeClass("navbar2")
-			}
-			else { 
-				$("#navbar").addClass("navbar2") 
-        $("#navbar").removeClass("navbar1")
-			}
-		});
+  
+        if ($(document).scrollTop() < 5) {
+          $("#navbar").addClass("navbar1")
+          $("#navbar").removeClass("navbar2")
+          $("#title1").addClass("title1")
+          $("#title1").removeClass("title2")
+        }
+        else { 
+          $("#navbar").addClass("navbar2") 
+          $("#navbar").removeClass("navbar1")
+          $("#title1").addClass("title2")
+          $("#title1").removeClass("title1")
+        }
+      });
   </script>
 
 
