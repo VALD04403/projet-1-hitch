@@ -298,26 +298,26 @@
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 		<script>
 			$(document).ready(function()
-{
-	navbar_onscroll();
+			{
+				navbar_onscroll();
 
-	function navbar_onscroll()
-	{
-		if ($(this).scrollTop() >= 1)
-		{
-			$('#navbar').addClass('active'); 
-		}
-		else
-		{
-			$('#navbar').removeClass('active'); 
-		}
-	}
+				function navbar_onscroll()
+				{
+					if ($(this).scrollTop() >= 1)
+					{
+						$('#navbar').addClass('active'); 
+					}
+					else
+					{
+						$('#navbar').removeClass('active'); 
+					}
+				}
 
-	$(window).scroll(function()
-	{	
-		navbar_onscroll();
-	});
-});
+				$(window).scroll(function()
+				{	
+					navbar_onscroll();
+				});
+			});
 			 
 		</script>
 </body>
