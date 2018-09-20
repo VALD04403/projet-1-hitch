@@ -20,7 +20,6 @@ h4{
   margin-left: 20%;
   margin-top: 2%;
   
- 
 }
 
 title {
@@ -41,6 +40,9 @@ form {
 
 
 #navbar {
+  opacity: 0.97;
+}
+#navbar1{
   opacity: 0.97;
 }
 
