@@ -8,7 +8,13 @@ p{
 	margin-top: 5%;
 }
 
+#navbar {
+	opacity: 0.97;
+}
 
+#navbar1 {
+	opacity: 0.97;
+}
 .navbar1 {
 	opacity: 0.97;
 	height: 100px;
